@@ -1,5 +1,5 @@
 ### Hi, I'm Bjørn
 
-Norwegian on a small island. I 3D print, model in CAD, and occasionally write code.
+I like making things I can hold. Sometimes I write code too.
 
 [polybjorn.com](https://polybjorn.com) · [GrabCAD](https://grabcad.com/bjorn.a.andersen-1)
